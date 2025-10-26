@@ -49,7 +49,7 @@
         <cargo.version>1.9.12</cargo.version>
         <deployment-client.version>5.1.0</deployment-client.version>
         <xml-apis.version>1.4.01</xml-apis.version>
-        <commons-lang.version>3.7</commons-lang.version>
+        <commons-lang.version>3.18.0</commons-lang.version>
     </properties>
 
     <dependencyManagement>
